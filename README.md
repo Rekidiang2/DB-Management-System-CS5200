@@ -1,0 +1,2 @@
+# DB-Management-System-CS5200
+This course presents how to design a relational database from requirements gathering, to conceptual and logical modeling. We also cover how to query databases using SQL, the ACID properties of a relational database management system, and fundamentals of database programming using triggers, stored procedures, functions, and events. Advanced topics include indexing, transactions, concurrency and recovery. The course will also provide an introduction to non-relational (NoSQL) databases.
